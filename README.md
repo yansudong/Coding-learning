@@ -1,5 +1,7 @@
-# Coding-learning
-LeetCode、剑指Offer刷题练习
+Coding-learning (LeetCode & 剑指Offer)
+======
 
-#链表
-LeetCode #206 反转链表
+## 链表
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|C++|Easy|
