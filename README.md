@@ -7,4 +7,4 @@ Coding-learning (LeetCode & 剑指Offer)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)| [C++](./Linked List/Reverse Linked List/Reverse Linked List.cpp), [Python](./Linked List/Reverse Linked List/Reverse Linked List.py)|Easy|
+|206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)| [C++](./LinkedList/Reverse-Linked-List.cpp), [Python](./LinkedList/Reverse-Linked-List.py)|Easy|
