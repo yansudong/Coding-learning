@@ -1,3 +1,3 @@
 /**
-* #92 ReverseLinkedListII.cpp
+* #92 Reverse Linked List II
 *
