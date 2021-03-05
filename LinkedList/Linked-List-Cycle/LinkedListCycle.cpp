@@ -27,7 +27,22 @@ public:
 };
 
 
-//方法二 快慢指针
+//方法二 标记法
+class Solution {
+public:
+    bool hasCycle(ListNode *head) {
+        ListNode* p = head;
+        // using INT_MAX as the mark could be a bug!
+        while( p &&  p->val != INT_MAX ) {
+            p->val = INT_MAX;
+            p = p -> next;
+        }
+        return p != NULL;
+    }
+}
+
+
+//方法三 快慢指针
 class Solution {
 public:
     bool hasCycle(ListNode* head) {
